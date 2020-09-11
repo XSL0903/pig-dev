@@ -14,9 +14,9 @@
 bin/
 
 ### IntelliJ IDEA ###
-## .idea
+.idea
 *.iws
-## *.iml
+*.iml
 *.ipr
 rebel.xml
 
